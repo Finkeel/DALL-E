@@ -27,7 +27,7 @@ const Card = ({ _id, name, prompt, photo }) => {
           >
             <img
               src={download}
-              alt="donwload"
+              alt="download"
               className="w-6  h-6 object-contain invert"
             />
           </button>
